@@ -8,3 +8,12 @@ fastapi
 uvicorn
 sse_starlette
 beautifulsoup4
+pypdf
+chromadb
+faiss-cpu
+groq
+cassio
+langchain-groq
+wikipedia
+arxiv
+langchainhub
